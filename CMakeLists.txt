@@ -11,4 +11,5 @@ project(pico_i2c_dma C CXX ASM)
 pico_sdk_init()
 
 add_subdirectory("src")
-
+#deleted add_subdirectory("examples")
+ 
